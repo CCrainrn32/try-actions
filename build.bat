@@ -1,0 +1,3 @@
+
+echo Windows build
+scons
